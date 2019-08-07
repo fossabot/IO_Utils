@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKnext%2FIO_Utils.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKnext%2FIO_Utils?ref=badge_shield)
+
 Okio
 ====
 
@@ -695,3 +697,6 @@ License
  [encoding_slides]: https://speakerdeck.com/swankjesse/decoding-the-secrets-of-binary-data-droidcon-nyc-2016
  [ok_multiplatform_talk]: https://www.youtube.com/watch?v=Q8B4eDirgk0
  [ok_multiplatform_slides]: https://speakerdeck.com/swankjesse/ok-multiplatform
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKnext%2FIO_Utils.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKnext%2FIO_Utils?ref=badge_large)
